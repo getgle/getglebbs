@@ -28,5 +28,6 @@ for($i=0; $i < count($db); $i++){
 
 ?>
 </div>
+	<h6>powered by getgle-bbs</h6>
 </body>
 </html>
