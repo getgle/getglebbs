@@ -24,6 +24,7 @@ for($i=0; $i < count($db); $i++){
 }
 ?>
 </table>
+	<h6>website powered by GetgleBBS, getgle.org</h6>
 </center>
 </div>
 </body>
