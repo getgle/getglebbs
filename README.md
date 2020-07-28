@@ -1,2 +1,2 @@
 # getglebbs
-oop
+2channel style textboard software
