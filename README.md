@@ -4,9 +4,9 @@
 pros:
 * Posts are stored in an easy to parse JSON file
 * Good performance
-* Portable as it only requires PHP and no database.
+* Portable as it only requires PHP and no SQL.
 * Unique features like homosexual text, fortunes, random numbers and monospace posts
-* Constantly backs up the database allowing you to revert the database easily.
+* Constantly backs up the posts file allowing you to revert to an old version easily.
 
 cons:
 * I wrote it very quickly and added new features half hazardly. This made the codebase somewhat unwieldy (hence why im rewriting it)
