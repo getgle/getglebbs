@@ -1,5 +1,5 @@
 # getglebbs
-2channel style textboard software, soon to be replaced with a new rewrite.
+2channel style textboard software,~~soon to be replaced with a new rewrite~~. I wrote a new textboard for getgle and this is no longer used.
 
 pros:
 * Posts are stored in an easy to parse JSON file
@@ -13,4 +13,4 @@ cons:
 * The json file will wipe itself if multiple people write to it.  (this is fixed in the rewrite)
 
 
-try it at https://getgle.org/
+try it at ~~https://getgle.org/~~ https://getgle.org now uses getglebbs2, not getglebbs
