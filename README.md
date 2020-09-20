@@ -1,6 +1,9 @@
 # getglebbs
 2channel style textboard software,~~soon to be replaced with a new rewrite~~. I wrote a new textboard for getgle and this is no longer used.
 
+requires:
+  php 7.2 or above
+
 pros:
 * Posts are stored in an easy to parse JSON file
 * Good performance
